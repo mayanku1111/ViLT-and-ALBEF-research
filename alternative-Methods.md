@@ -37,5 +37,5 @@
 
 ## 1. Zero-Shot Recognition
 
-## 2.Image Captioning and Visual Question Answering - I want models' ability to integrate and understand multimodal data
+## 2.Image Captioning and Visual Question Answering - I want to improve models' ability to integrate and understand multimodal data
 
