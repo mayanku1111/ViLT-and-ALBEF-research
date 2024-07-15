@@ -21,4 +21,7 @@
 
 ## 8.PointCLIP-- Related to robotics and PointCLIP is designed to handle 3D point cloud data along with textual descriptions
 
+# Methodologies and Techniques
+## Contrastive Learning
+## Many of the alternative models, such as CLIP and GLIP, utilize contrastive learning to align images and text in a shared feature space. This technique involves training the model to distinguish between matching and non-matching pairs of images and text, which enhances its ability to understand and link multimodal data
 
