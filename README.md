@@ -6,3 +6,6 @@ This repo is about generating text prompts from diffusion-generated images, and 
 ## Project idea and working with ViLT and ALBEF
 ## 👇🏻
 ## [Link](Project-Idea.md)
+
+# Do we have alternatives of these models ?
+check this out [link](alternative-Methods.md)
