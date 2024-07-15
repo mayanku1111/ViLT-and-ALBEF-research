@@ -52,3 +52,6 @@ You might need to modify the output layer to generate free-form text rather than
 Fine-tuning on your specific dataset would be crucial to capture the nuances of diffusion model prompts.
 # ViLT model below
 ![ViLT](https://github.com/user-attachments/assets/42c9d314-98ea-4160-9451-3794721b90ef)
+
+# ALBEF model below 
+![ALBEF](https://github.com/user-attachments/assets/9655eba0-f463-4f60-8513-cc4a138556c4)
