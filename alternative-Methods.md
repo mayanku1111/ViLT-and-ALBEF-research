@@ -15,7 +15,7 @@
 
 
 ## 6.ActionCLIP -- ActionCLIP extends the capabilities of CLIP to video data, making it suitable for tasks that involve understanding actions and events in videos. This model ## ## leverages the same contrastive learning approach as CLIP but is optimized for temporal data, enabling it to perform well in video-based applications
-## [link]https://github.com/sallymmx/ActionCLIP
+## [link](https://github.com/sallymmx/ActionCLIP)
 
 ## 7.AudioCLIP
 
