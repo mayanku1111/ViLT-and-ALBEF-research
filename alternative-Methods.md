@@ -25,3 +25,17 @@
 ## Contrastive Learning
 ## Many of the alternative models, such as CLIP and GLIP, utilize contrastive learning to align images and text in a shared feature space. This technique involves training the model to distinguish between matching and non-matching pairs of images and text, which enhances its ability to understand and link multimodal data
 
+
+## Cross-Attention Mechanism
+## Models like ViLBERT and LLaVA employ cross-attention mechanisms to fuse visual and textual information. This approach allows the model to focus on relevant parts of the image and text simultaneously, improving its performance on tasks that require detailed understanding of both modalities 
+
+
+## Masked Modeling
+## Masked image modeling (MIM) and masked language modeling (MLM) are techniques used to pre-train vision-language models by masking parts of the input data and training the model to predict the missing information. This approach helps the model learn robust representations of both visual and textual data 
+
+# Application area i am most excited about 
+
+## 1. Zero-Shot Recognition
+
+## 2.Image Captioning and Visual Question Answering - I want models' ability to integrate and understand multimodal data
+
