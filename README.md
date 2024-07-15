@@ -8,4 +8,4 @@ This repo is about generating text prompts from diffusion-generated images, and 
 ## [Link](Project-Idea.md)
 
 # Do we have alternatives of these models ?
-check this out [link](alternative-Methods.md)
+## check this out [link](alternative-Methods.md)
